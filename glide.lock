@@ -3,8 +3,8 @@ updated: 2017-01-09T16:57:40.389291459+08:00
 imports:
 - name: github.com/daviddengcn/go-colortext
   version: 805cee6e0d43c72ba1d4e3275965ff41e0da068a
-- name: github.com/gizak/termui
-  version: bfde399a8caee62789593f2cbbda70feee4d5553
+- name: github.com/airking05/termui
+  version: c2850e27cf42f779933255c5ac873f0df1da09fd
 - name: github.com/maruel/panicparse
   version: ad661195ed0e88491e0f14be6613304e3b1141d6
   subpackages:
