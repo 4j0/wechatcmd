@@ -4,7 +4,7 @@ import (
 	"log"
 	"strings"
 
-	ui "github.com/gizak/termui"
+	ui "github.com/airking05/termui"
 	"github.com/liushuchun/wechatcmd/wechat"
 )
 
